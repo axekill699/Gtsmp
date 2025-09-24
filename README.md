@@ -1,0 +1,2 @@
+# Gtsmp
+Good server
